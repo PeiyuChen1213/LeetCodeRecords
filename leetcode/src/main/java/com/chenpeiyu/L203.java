@@ -1,4 +1,4 @@
-package org.example;
+package com.chenpeiyu;
 
 /**
  * 移除链表元素

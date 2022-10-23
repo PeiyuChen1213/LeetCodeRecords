@@ -1,4 +1,4 @@
-package org.example;
+package com.chenpeiyu;
 
 /**
  * 数组的移除元素

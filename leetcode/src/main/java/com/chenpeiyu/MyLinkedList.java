@@ -1,4 +1,4 @@
-package org.example;
+package com.chenpeiyu;
 
 /**
  * 开始设计链表

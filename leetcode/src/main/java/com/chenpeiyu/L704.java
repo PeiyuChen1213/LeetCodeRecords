@@ -1,4 +1,4 @@
-package org.example;
+package com.chenpeiyu;
 
 //leetcode704 关于二分查找的题目
 public class L704 {
