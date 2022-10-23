@@ -2,7 +2,9 @@ package com.chenpeiyu;
 
 public class Jianzhi024 {
     public static void main(String[] args) {
-        //测试git推送
+
+
+        //测试git2
         ListNode head = new ListNode(0);
         ListNode first = new ListNode(1);
         ListNode second = new ListNode(2);
