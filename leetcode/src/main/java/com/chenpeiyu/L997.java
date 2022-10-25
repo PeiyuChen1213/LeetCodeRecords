@@ -51,6 +51,7 @@ public class L997 {
                 j--;
             }
         }
+
         return result;
     }
 }
