@@ -12,7 +12,7 @@ public class Jianzhi055 {
 
 
     /**
-     * 深度优先的算法方法
+     * 深度优先搜索
      * @param root
      * @return
      */
